@@ -1,2 +1,6 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,irregular shape,image/jpeg,irregularshape.jpg,2021,artwork;night;park,China,30.762653,120.750865,The irregular artwork is in the park
+item2,lake surface,image/jpeg,lakesurface.jpg,2021,lake;park,China,30.762653,120.750865,A lake in the park
+item3,ferris wheel,image/jpeg,ferriswheel.jpg,2021,ferris wheel;park,China,30.762653,120.750865,A ferris wheel in the park
+item4,square,image/jpeg,square.jpg,2021,tree;park,China,30.762653,120.750865,A glowing tree in the park
+item5,the Bund,image/jpeg,theBund.jpg,2021,building;shanghai; Oriental Pearl Tower,China,31.231706,121.472644,A modern city in China
