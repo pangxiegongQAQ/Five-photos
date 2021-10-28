@@ -1,4 +1,3 @@
-objectid,title,format,filename,date,subject,location,latitude,longitude,description
 item1,irregular shape,image/jpeg,irregularshape.jpg,2021,artwork;night;park,China,30.762653,120.750865,The irregular artwork is in the park
 item2,lake surface,image/jpeg,lakesurface.jpg,2021,lake;park,China,30.762653,120.750865,A lake in the park
 item3,ferris wheel,image/jpeg,ferriswheel.jpg,2021,ferris wheel;park,China,30.762653,120.750865,A ferris wheel in the park
